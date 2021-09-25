@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsdaibend
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python n' Web-Development
+- 🌱 I’m currently learning Django with Flask
 - 💞️ I’m looking to collaborate on something 😁
 - 📫 How to reach me: kotljar.daniel@gmail.com
 

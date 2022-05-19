@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itsdaibend
-- 👀 I’m interested in Python n' Web-Development
-- 🌱 I’m currently learning Django with Flask
-- 💞️ I’m looking to collaborate on something 😁
+- 👀 I’m Backend Software Engineer
+- 🌱 My tech-stack: Python, Django, DRF, PostgreSQL, Bootstrap, JQuery.
 - 📫 How to reach me: kotljar.daniel@gmail.com
 
 <!---

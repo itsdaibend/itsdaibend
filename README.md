@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @itsdaibend
-- 👀 I’m Backend Software Engineer
-- 🌱 My tech-stack: Python, Django, DRF, PostgreSQL, Bootstrap, JQuery.
-- 📫 How to reach me: kotljar.daniel@gmail.com
+- 👀 I’m a Backend Software Engineer
 
 <!---
 itsdaibend/itsdaibend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
